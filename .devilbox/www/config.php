@@ -24,7 +24,7 @@ $LOG_DIR	= dirname(dirname($CONF_DIR)) . DIRECTORY_SEPARATOR . 'log' . DIRECTORY
  * as well as in the webserver config.
  * @var string
  */
-$TLD_SUFFIX	= 'loc';
+$TLD_SUFFIX	= 'local';
 
 
 //
